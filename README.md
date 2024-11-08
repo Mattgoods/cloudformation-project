@@ -52,8 +52,8 @@ This infrastructure setup is ideal for a variety of use cases, including:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/aws-cloud-infrastructure.git
-   cd aws-cloud-infrastructure
+   git clone https://github.com/Mattgoods/cloudformation-project.git
+   cd cloudformation-project
    ```
 
 2. **Modify Parameters** (if needed):
